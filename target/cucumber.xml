@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="4" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="0.641">
+<testcase classname="Demo Feature" name="Login with various credentials" time="0.146">
+<failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given When the Chrome Browser Setup.........................................undefined
+Given User is on Login Page.................................................skipped
+When User enters combinations "Admin" and "admin123"........................skipped
+And Tap on Submit Button....................................................skipped
+Then User login Successfully and navigate on Home Screen....................skipped
+]]></failure>
+</testcase>
+<testcase classname="Demo Feature" name="Login with various credentials 2" time="0.007">
+<failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given When the Chrome Browser Setup.........................................undefined
+Given User is on Login Page.................................................skipped
+When User enters combinations "Admins" and "admin123".......................skipped
+And Tap on Submit Button....................................................skipped
+Then User login Successfully and navigate on Home Screen....................skipped
+]]></failure>
+</testcase>
+<testcase classname="Demo Feature" name="Login with various credentials 3" time="0.006">
+<failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given When the Chrome Browser Setup.........................................undefined
+Given User is on Login Page.................................................skipped
+When User enters combinations "Admin" and "admin123"........................skipped
+And Tap on Submit Button....................................................skipped
+Then User login Successfully and navigate on Home Screen....................skipped
+]]></failure>
+</testcase>
+<testcase classname="Demo Feature" name="Login with various credentials 4" time="0.008">
+<failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given When the Chrome Browser Setup.........................................undefined
+Given User is on Login Page.................................................skipped
+When User enters combinations "sdad" and "admin123".........................skipped
+And Tap on Submit Button....................................................skipped
+Then User login Successfully and navigate on Home Screen....................skipped
+]]></failure>
+</testcase>
+</testsuite>
